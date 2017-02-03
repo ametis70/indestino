@@ -1,0 +1,18 @@
+# Configuración de Jekyll
+
+# Configuración del sitio 
+title: Indestino - GGJ 2017 
+description: > # (con > se ignoran los linebreaks hasta la próxima propiedad definida)
+    Indestino es un pequeño juego que se desarrolló durante la Global Game Jam 
+    en la Facultad de Informática de la Universidad Nacional de La Plata en el 2016.
+url: "https://ianmethyst.github.io/indestino" # Host y protocolo del sitio 
+
+
+# Directorios
+baseurl: "" # El subdirectorio del sitio 
+source: "src" # Donde están los archivos para generar el sitio
+destination: "build" # Donde estarán los archivos generados
+keep_files: ["js", "css", "img", "ttf"] # Evitar que se eliminen los assets que no son generados por jekyll
+
+# Build settings
+markdown: kramdown # Parser de markdown

@@ -1,0 +1,18 @@
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-metadata
+
+build/
+gh-pages/
+node_modules
+
+.swp
+
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+Session.vim
+.netrwhist
+*~
+tags

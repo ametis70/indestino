@@ -1,0 +1,3 @@
+# Para usar en conjunto con _config.yml
+# Sobreescribe la destinación para las tareas de producción.
+destination: "gh-pages"
