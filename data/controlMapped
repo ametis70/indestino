@@ -1,0 +1,16 @@
+Player
+A	A Button	1	BUTTON	Button 0	0	0.0	0.0
+B	B Button	1	BUTTON	Button 1	0	0.0	0.0
+X	X Button	1	BUTTON	Button 2	0	0.0	0.0
+Y	Y Button	1	BUTTON	Button 3	0	0.0	0.0
+L1	Left bumper	1	BUTTON	Button 4	0	0.0	0.0
+R1	Right bumper	1	BUTTON	Button 5	0	0.0	0.0
+Select	Select	1	BUTTON	Button 6	0	0.0	0.0
+Start	Start	1	BUTTON	Button 7	0	0.0	0.0
+L3	Left thumb	1	BUTTON	Button 8	0	0.0	0.0
+R3	Right thumb	1	BUTTON	Button 9	0	0.0	0.0
+L-Y	Left Y Axis	3	SLIDER	Y Axis	0	1.0	0.0
+L-X	Left X Axis	3	SLIDER	X Axis	0	1.0	0.0
+R-Y	RIght Y Axis	3	SLIDER	Y Rotation	0	1.0	0.0
+R-X	Right X Axis	3	SLIDER	X Rotation	0	1.0	0.0
+Triggers	Triggers	3	SLIDER	Z Axis	0	1.0	0.0
